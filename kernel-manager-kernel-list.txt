@@ -1,0 +1,10 @@
+#u.115.com url lists of all zImage while this file is put at https://sites.google.com/site/akernelm/kernelmanager/kernel-manager-kernel-list.txt?attredirects=0&d=1
+#Kernel Manager will parse this file to get zImage url
+#Then parse zImage url to get download link
+#zImage name like: 
+#zImage-HuaWei-C8600-2.6.29-OC528MHz.img
+#zImage-HuaWei-C8600-2.6.29-Default.img
+#zImage-HuaWei-C8600-2.6.29-Cdrom.img
+#each zImage link like below, @ line for url, % for description
+@http://u.115.com/file/cln1nw5a
+$748MHz kernel for Huawei C8600 with kernel version 2.6.29
