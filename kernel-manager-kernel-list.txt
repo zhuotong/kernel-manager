@@ -5,6 +5,65 @@
 #zImage-HuaWei-C8600-2.6.29-OC528MHz.img
 #zImage-HuaWei-C8600-2.6.29-Default.img
 #zImage-HuaWei-C8600-2.6.29-Cdrom.img
-#each zImage link like below, @ line for url, % for description
-@http://u.115.com/file/cln1nw5a
+#each zImage link like below, @ line for url, % for description of en and cn
+#
+@http://u.115.com/file/clgb4c03
+$528MHz kernel for Huawei C8600 with kernel version 2.6.29, featured Swap, Iso file mount, Ext4, Network block device, Apanic, Magic_sysrq
+$【华为C8600用2.6.29版内核】528MHz CPU，开启Swap，Iso文件挂载，Ext4文件系统，网络块设备支持，Apanic，魔法sysrq
+@http://u.115.com/file/e6yhfc5v
+$528MHz kernel for Huawei C8600 with kernel version 2.6.29, featured Apanic
+$【华为C8600用2.6.29版内核】528MHz CPU，开启Apanic
+@http://u.115.com/file/aqz492r8
+$528MHz kernel for Huawei C8600 with kernel version 2.6.29, featured Network block device
+$【华为C8600用2.6.29版内核】528MHz CPU，开启网络块设备支持
+@http://u.115.com/file/clgb4vhl
+$528MHz kernel for Huawei C8600 with kernel version 2.6.29, featured Ext4 file system
+$【华为C8600用2.6.29版内核】528MHz CPU，开启Ext4文件系统
+@http://u.115.com/file/e6yhfuwf
+$528MHz kernel for Huawei C8600 with kernel version 2.6.29, featured iso file mount support
+$【华为C8600用2.6.29版内核】528MHz CPU，开启Iso文件挂载
+@http://u.115.com/file/bhz4l5qy
+$528MHz kernel for Huawei C8600 with kernel version 2.6.29, featured magic sysrq
+$【华为C8600用2.6.29版内核】528MHz CPU，开启魔法sysrq
+@http://u.115.com/file/e6yhfy0u
+$528MHz kernel for Huawei C8600 with kernel version 2.6.29, featured swap
+$【华为C8600用2.6.29版内核】528MHz CPU，开启Swap
+@http://u.115.com/file/aqz49l33
+$528MHz kernel for Huawei C8600 with kernel version 2.6.29, default
+$【华为C8600用2.6.29版内核】528MHz CPU，默认
+@http://u.115.com/file/clgb4qka
+$537MHz kernel for Huawei C8600 with kernel version 2.6.29
+$【华为C8600用2.6.29版内核】537MHz CPU
+@http://u.115.com/file/bhz4likg
+$556MHz kernel for Huawei C8600 with kernel version 2.6.29
+$【华为C8600用2.6.29版内核】556MHz CPU
+@http://u.115.com/file/clgb4tgt
+$576MHz kernel for Huawei C8600 with kernel version 2.6.29
+$【华为C8600用2.6.29版内核】576MHz CPU
+@http://u.115.com/file/e6yhfrj1
+$595MHz kernel for Huawei C8600 with kernel version 2.6.29
+$【华为C8600用2.6.29版内核】595MHz CPU
+@http://u.115.com/file/e6yhs9l8
+$614MHz kernel for Huawei C8600 with kernel version 2.6.29
+$【华为C8600用2.6.29版内核】614MHz CPU
+@http://u.115.com/file/dn6ylgfn
+$633MHz kernel for Huawei C8600 with kernel version 2.6.29
+$【华为C8600用2.6.29版内核】633MHz CPU
+@http://u.115.com/file/aqz491h9
+$652MHz kernel for Huawei C8600 with kernel version 2.6.29
+$【华为C8600用2.6.29版内核】652MHz CPU
+@http://u.115.com/file/clgb4jcn
+$672MHz kernel for Huawei C8600 with kernel version 2.6.29
+$【华为C8600用2.6.29版内核】672MHz CPU
+@http://u.115.com/file/aqz4jpd8
+$691MHz kernel for Huawei C8600 with kernel version 2.6.29
+$【华为C8600用2.6.29版内核】691MHz CPU
+@http://u.115.com/file/aqz49o9m
+$710MHz kernel for Huawei C8600 with kernel version 2.6.29
+$【华为C8600用2.6.29版内核】710MHz CPU
+@http://u.115.com/file/e6yhfp2v
+$748MHz kernel for Huawei C8600 with kernel version 2.6.29, featured Swap, Iso file mount, Ext4, Network block device, Apanic, Magic_sysrq
+$【华为C8600用2.6.29版内核】748MHz CPU，开启Swap，Iso文件挂载，Ext4文件系统，网络块设备支持，Apanic，魔法sysrq
+@http://u.115.com/file/e6yhfgmt
 $748MHz kernel for Huawei C8600 with kernel version 2.6.29
+$【华为C8600用2.6.29版内核】748MHz CPU
