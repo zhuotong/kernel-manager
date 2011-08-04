@@ -1,0 +1,3 @@
+@http://kernel-manager.googlecode.com/git/patch/Huawei/C8600/2.6.32/Huawei-C8600-2.6.32-system-wifi.zip
+$kernel patch for Huawei C8600 with kernel version 2.6.32, featured wifi patch for atheros wifi ar6002
+$【华为C8600用2.6.32版内核补丁】Atheros无线驱动模块补丁

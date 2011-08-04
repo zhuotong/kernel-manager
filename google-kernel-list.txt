@@ -1,0 +1,90 @@
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC528MHz-ALL.img
+$528MHz kernel for Huawei C8600 with kernel version 2.6.29, featured Swap, Iso file mount, Ext4, Network block device, Apanic, Magic_sysrq
+$【华为C8600用2.6.29版内核】528MHz CPU，开启Swap，Iso文件挂载，Ext4文件系统，网络块设备支持，Apanic，魔法sysrq
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC528MHz-APANIC-APANIC_PLABEL.img
+$528MHz kernel for Huawei C8600 with kernel version 2.6.29, featured Apanic
+$【华为C8600用2.6.29版内核】528MHz CPU，开启Apanic
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC528MHz-BLK_DEV_NBD.img
+$528MHz kernel for Huawei C8600 with kernel version 2.6.29, featured Network block device
+$【华为C8600用2.6.29版内核】528MHz CPU，开启网络块设备支持
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC528MHz-EXT4.img
+$528MHz kernel for Huawei C8600 with kernel version 2.6.29, featured Ext4 file system
+$【华为C8600用2.6.29版内核】528MHz CPU，开启Ext4文件系统
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC528MHz-ISO9660.img
+$528MHz kernel for Huawei C8600 with kernel version 2.6.29, featured iso file mount support
+$【华为C8600用2.6.29版内核】528MHz CPU，开启Iso文件挂载
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC528MHz-MAGIC_SYSRQ.img
+$528MHz kernel for Huawei C8600 with kernel version 2.6.29, featured magic sysrq
+$【华为C8600用2.6.29版内核】528MHz CPU，开启魔法sysrq
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC528MHz-SWAP.img
+$528MHz kernel for Huawei C8600 with kernel version 2.6.29, featured swap
+$【华为C8600用2.6.29版内核】528MHz CPU，开启Swap
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC528MHz.img
+$528MHz kernel for Huawei C8600 with kernel version 2.6.29, default
+$【华为C8600用2.6.29版内核】528MHz CPU，默认
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC537MHz.img
+$537MHz kernel for Huawei C8600 with kernel version 2.6.29
+$【华为C8600用2.6.29版内核】537MHz CPU
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC556MHz.img
+$556MHz kernel for Huawei C8600 with kernel version 2.6.29
+$【华为C8600用2.6.29版内核】556MHz CPU
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC576MHz.img
+$576MHz kernel for Huawei C8600 with kernel version 2.6.29
+$【华为C8600用2.6.29版内核】576MHz CPU
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC595MHz.img
+$595MHz kernel for Huawei C8600 with kernel version 2.6.29
+$【华为C8600用2.6.29版内核】595MHz CPU
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC614MHz.img
+$614MHz kernel for Huawei C8600 with kernel version 2.6.29
+$【华为C8600用2.6.29版内核】614MHz CPU
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC633MHz.img
+$633MHz kernel for Huawei C8600 with kernel version 2.6.29
+$【华为C8600用2.6.29版内核】633MHz CPU
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC652MHz.img
+$652MHz kernel for Huawei C8600 with kernel version 2.6.29
+$【华为C8600用2.6.29版内核】652MHz CPU
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC672MHz.img
+$672MHz kernel for Huawei C8600 with kernel version 2.6.29
+$【华为C8600用2.6.29版内核】672MHz CPU
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC691MHz.img
+$691MHz kernel for Huawei C8600 with kernel version 2.6.29
+$【华为C8600用2.6.29版内核】691MHz CPU
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC710MHz.img
+$710MHz kernel for Huawei C8600 with kernel version 2.6.29
+$【华为C8600用2.6.29版内核】710MHz CPU
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC748MHz-ALL.img
+$748MHz kernel for Huawei C8600 with kernel version 2.6.29, featured Swap, Iso file mount, Ext4, Network block device, Apanic, Magic_sysrq
+$【华为C8600用2.6.29版内核】748MHz CPU，开启Swap，Iso文件挂载，Ext4文件系统，网络块设备支持，Apanic，魔法sysrq
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC748MHz.img
+$748MHz kernel for Huawei C8600 with kernel version 2.6.29
+$【华为C8600用2.6.29版内核】748MHz CPU
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.32/zImage-HuaWei-C8600-2.6.32-OC600MHz.img
+$600MHz kernel for Huawei C8600 with kernel version 2.6.32, Need install Wifi Patch of Atheros
+$【华为C8600用2.6.32版内核】600MHz CPU, 需安装无线补丁
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.32/zImage-HuaWei-C8600-2.6.32-OC614MHz.img
+$614MHz kernel for Huawei C8600 with kernel version 2.6.32, Need install Wifi Patch of Atheros
+$【华为C8600用2.6.32版内核】614MHz CPU, 需安装无线补丁
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.32/zImage-HuaWei-C8600-2.6.32-OC633MHz.img
+$633MHz kernel for Huawei C8600 with kernel version 2.6.32, Need install Wifi Patch of Atheros
+$【华为C8600用2.6.32版内核】633MHz CPU, 需安装无线补丁
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.32/zImage-HuaWei-C8600-2.6.32-OC652MHz.img
+$652MHz kernel for Huawei C8600 with kernel version 2.6.32, Need install Wifi Patch of Atheros
+$【华为C8600用2.6.32版内核】652MHz CPU, 需安装无线补丁
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.32/zImage-HuaWei-C8600-2.6.32-OC672MHz.img
+$672MHz kernel for Huawei C8600 with kernel version 2.6.32, Need install Wifi Patch of Atheros
+$【华为C8600用2.6.32版内核】672MHz CPU, 需安装无线补丁
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.32/zImage-HuaWei-C8600-2.6.32-OC691MHz.img
+$691MHz kernel for Huawei C8600 with kernel version 2.6.32, Need install Wifi Patch of Atheros
+$【华为C8600用2.6.32版内核】691MHz CPU, 需安装无线补丁
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.32/zImage-HuaWei-C8600-2.6.32-OC710MHz.img
+$710MHz kernel for Huawei C8600 with kernel version 2.6.32, Need install Wifi Patch of Atheros
+$【华为C8600用2.6.32版内核】710MHz CPU, 需安装无线补丁
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.32/zImage-HuaWei-C8600-2.6.32-OC729MHz.img
+$729MHz kernel for Huawei C8600 with kernel version 2.6.32, Need install Wifi Patch of Atheros
+$【华为C8600用2.6.32版内核】729MHz CPU, 需安装无线补丁
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.32/zImage-HuaWei-C8600-2.6.32-OC748MHz.img
+$748MHz kernel for Huawei C8600 with kernel version 2.6.32, Need install Wifi Patch of Atheros
+$【华为C8600用2.6.32版内核】748MHz CPU, 需安装无线补丁
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.32/zImage-HuaWei-C8600-2.6.32-OC768MHz.img
+$768MHz kernel for Huawei C8600 with kernel version 2.6.32, Need install Wifi Patch of Atheros
+$【华为C8600用2.6.32版内核】748MHz CPU, 需安装无线补丁
