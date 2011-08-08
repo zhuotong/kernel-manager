@@ -49,6 +49,9 @@ $【华为C8600用2.6.29版内核】672MHz CPU
 @http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC691MHz.img
 $691MHz kernel for Huawei C8600 with kernel version 2.6.29
 $【华为C8600用2.6.29版内核】691MHz CPU
+@http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC710MHz-UC30MHZ-ALL.img
+$710MHz kernel for Huawei C8600 with kernel version 2.6.29，min 30MHz CPU, featured Swap, Iso file mount, Ext4, Network block device, Apanic, Magic_sysrq, recommand!
+$【华为C8600用2.6.29版内核】最大710MHz CPU, 最小30MHz，开启Swap，Iso文件挂载，Ext4文件系统，网络块设备支持，Apanic，魔法sysrq，推荐！
 @http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC710MHz.img
 $710MHz kernel for Huawei C8600 with kernel version 2.6.29
 $【华为C8600用2.6.29版内核】710MHz CPU
