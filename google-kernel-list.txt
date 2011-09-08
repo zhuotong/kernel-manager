@@ -1,33 +1,63 @@
 @http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.32/zImage-HuaWei-C8600-2.6.32-OC600MHz.img
-$600MHz kernel for Huawei C8600 with kernel version 2.6.32, Need install Wifi Patch of Atheros, support compass
-$【华为C8600用2.6.32版内核】600MHz CPU, 需安装无线补丁,增加指南针支持
+$600MHz kernel for Huawei C8600 before March with kernel version 2.6.32, Need install Wifi Patch of Atheros, update on 2011-09-08
+$【华为三月前C8600用2.6.32版内核】600MHz CPU, 需安装无线补丁,2011-09-08更新
 @http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.32/zImage-HuaWei-C8600-2.6.32-OC614MHz.img
-$614MHz kernel for Huawei C8600 with kernel version 2.6.32, Need install Wifi Patch of Atheros, support compass
-$【华为C8600用2.6.32版内核】614MHz CPU, 需安装无线补丁,增加指南针支持
+$614MHz kernel for Huawei C8600 before March with kernel version 2.6.32, Need install Wifi Patch of Atheros, update on 2011-09-08
+$【华为三月前C8600用2.6.32版内核】614MHz CPU, 需安装无线补丁,2011-09-08更新
 @http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.32/zImage-HuaWei-C8600-2.6.32-OC633MHz.img
-$633MHz kernel for Huawei C8600 with kernel version 2.6.32, Need install Wifi Patch of Atheros, support compass
-$【华为C8600用2.6.32版内核】633MHz CPU, 需安装无线补丁,增加指南针支持
+$633MHz kernel for Huawei C8600 before March with kernel version 2.6.32, Need install Wifi Patch of Atheros, update on 2011-09-08
+$【华为三月前C8600用2.6.32版内核】633MHz CPU, 需安装无线补丁,2011-09-08更新
 @http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.32/zImage-HuaWei-C8600-2.6.32-OC652MHz.img
-$652MHz kernel for Huawei C8600 with kernel version 2.6.32, Need install Wifi Patch of Atheros, support compass
-$【华为C8600用2.6.32版内核】652MHz CPU, 需安装无线补丁,增加指南针支持
+$652MHz kernel for Huawei C8600 before March with kernel version 2.6.32, Need install Wifi Patch of Atheros, update on 2011-09-08
+$【华为三月前C8600用2.6.32版内核】652MHz CPU, 需安装无线补丁,2011-09-08更新
 @http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.32/zImage-HuaWei-C8600-2.6.32-OC672MHz.img
-$672MHz kernel for Huawei C8600 with kernel version 2.6.32, Need install Wifi Patch of Atheros, support compass
-$【华为C8600用2.6.32版内核】672MHz CPU, 需安装无线补丁,增加指南针支持
+$672MHz kernel for Huawei C8600 before March with kernel version 2.6.32, Need install Wifi Patch of Atheros, update on 2011-09-08
+$【华为三月前C8600用2.6.32版内核】672MHz CPU, 需安装无线补丁,2011-09-08更新
 @http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.32/zImage-HuaWei-C8600-2.6.32-OC691MHz.img
-$691MHz kernel for Huawei C8600 with kernel version 2.6.32, Need install Wifi Patch of Atheros, support compass
-$【华为C8600用2.6.32版内核】691MHz CPU, 需安装无线补丁,增加指南针支持
+$691MHz kernel for Huawei C8600 before March with kernel version 2.6.32, Need install Wifi Patch of Atheros, update on 2011-09-08
+$【华为三月前C8600用2.6.32版内核】691MHz CPU, 需安装无线补丁,2011-09-08更新
 @http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.32/zImage-HuaWei-C8600-2.6.32-OC710MHz.img
-$710MHz kernel for Huawei C8600 with kernel version 2.6.32, Need install Wifi Patch of Atheros, support compass
-$【华为C8600用2.6.32版内核】710MHz CPU, 需安装无线补丁,增加指南针支持
+$710MHz kernel for Huawei C8600 before March with kernel version 2.6.32, Need install Wifi Patch of Atheros, update on 2011-09-08
+$【华为三月前C8600用2.6.32版内核】710MHz CPU, 需安装无线补丁,2011-09-08更新
 @http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.32/zImage-HuaWei-C8600-2.6.32-OC729MHz.img
-$729MHz kernel for Huawei C8600 with kernel version 2.6.32, Need install Wifi Patch of Atheros, support compass
-$【华为C8600用2.6.32版内核】729MHz CPU, 需安装无线补丁,增加指南针支持
+$729MHz kernel for Huawei C8600 before March with kernel version 2.6.32, Need install Wifi Patch of Atheros, update on 2011-09-08
+$【华为三月前C8600用2.6.32版内核】729MHz CPU, 需安装无线补丁,2011-09-08更新
 @http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.32/zImage-HuaWei-C8600-2.6.32-OC748MHz.img
-$748MHz kernel for Huawei C8600 with kernel version 2.6.32, Need install Wifi Patch of Atheros, support compass
-$【华为C8600用2.6.32版内核】748MHz CPU, 需安装无线补丁,增加指南针支持
+$748MHz kernel for Huawei C8600 before March with kernel version 2.6.32, Need install Wifi Patch of Atheros, update on 2011-09-08
+$【华为三月前C8600用2.6.32版内核】748MHz CPU, 需安装无线补丁,2011-09-08更新
 @http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.32/zImage-HuaWei-C8600-2.6.32-OC768MHz.img
-$768MHz kernel for Huawei C8600 with kernel version 2.6.32, Need install Wifi Patch of Atheros, support compass
-$【华为C8600用2.6.32版内核】768MHz CPU, 需安装无线补丁,增加指南针支持
+$768MHz kernel for Huawei C8600 before March with kernel version 2.6.32, Need install Wifi Patch of Atheros, update on 2011-09-08
+$【华为三月前C8600用2.6.32版内核】768MHz CPU, 需安装无线补丁,2011-09-08更新
+@http://kernel-manager.googlecode.com/git/Huawei/M860/2.6.32/zImage-HuaWei-C8600-2.6.32-OC600MHz.img
+$600MHz kernel for Huawei M860 and C8600 after March with kernel version 2.6.32, update on 2011-09-08
+$【华为三月后C8600用2.6.32版内核】600MHz CPU, 2011-09-08更新
+@http://kernel-manager.googlecode.com/git/Huawei/M860/2.6.32/zImage-HuaWei-C8600-2.6.32-OC614MHz.img
+$614MHz kernel for Huawei M860 and C8600 after March with kernel version 2.6.32, update on 2011-09-08
+$【华为三月后C8600用2.6.32版内核】614MHz CPU, 2011-09-08更新
+@http://kernel-manager.googlecode.com/git/Huawei/M860/2.6.32/zImage-HuaWei-C8600-2.6.32-OC633MHz.img
+$633MHz kernel for Huawei M860 and C8600 after March with kernel version 2.6.32, update on 2011-09-08
+$【华为三月后C8600用2.6.32版内核】633MHz CPU, 2011-09-08更新
+@http://kernel-manager.googlecode.com/git/Huawei/M860/2.6.32/zImage-HuaWei-C8600-2.6.32-OC652MHz.img
+$652MHz kernel for Huawei M860 and C8600 after March with kernel version 2.6.32, update on 2011-09-08
+$【华为三月后C8600用2.6.32版内核】652MHz CPU, 2011-09-08更新
+@http://kernel-manager.googlecode.com/git/Huawei/M860/2.6.32/zImage-HuaWei-C8600-2.6.32-OC672MHz.img
+$672MHz kernel for Huawei M860 and C8600 after March with kernel version 2.6.32, update on 2011-09-08
+$【华为三月后C8600用2.6.32版内核】672MHz CPU, 2011-09-08更新
+@http://kernel-manager.googlecode.com/git/Huawei/M860/2.6.32/zImage-HuaWei-C8600-2.6.32-OC691MHz.img
+$691MHz kernel for Huawei M860 and C8600 after March with kernel version 2.6.32, update on 2011-09-08
+$【华为三月后C8600用2.6.32版内核】691MHz CPU, 2011-09-08更新
+@http://kernel-manager.googlecode.com/git/Huawei/M860/2.6.32/zImage-HuaWei-C8600-2.6.32-OC710MHz.img
+$710MHz kernel for Huawei M860 and C8600 after March with kernel version 2.6.32, update on 2011-09-08
+$【华为三月后C8600用2.6.32版内核】710MHz CPU, 2011-09-08更新
+@http://kernel-manager.googlecode.com/git/Huawei/M860/2.6.32/zImage-HuaWei-C8600-2.6.32-OC729MHz.img
+$729MHz kernel for Huawei M860 and C8600 after March with kernel version 2.6.32, update on 2011-09-08
+$【华为三月后C8600用2.6.32版内核】729MHz CPU, 2011-09-08更新
+@http://kernel-manager.googlecode.com/git/Huawei/M860/2.6.32/zImage-HuaWei-C8600-2.6.32-OC748MHz.img
+$748MHz kernel for Huawei M860 and C8600 after March with kernel version 2.6.32, update on 2011-09-08
+$【华为三月后C8600用2.6.32版内核】748MHz CPU, 2011-09-08更新
+@http://kernel-manager.googlecode.com/git/Huawei/M860/2.6.32/zImage-HuaWei-C8600-2.6.32-OC768MHz.img
+$768MHz kernel for Huawei M860 and C8600 after March with kernel version 2.6.32, update on 2011-09-08
+$【华为三月后C8600用2.6.32版内核】768MHz CPU, 2011-09-08更新
 @http://kernel-manager.googlecode.com/git/Huawei/C8600/2.6.29/zImage-HuaWei-C8600-2.6.29-OC528MHz-ALL.img
 $528MHz kernel for Huawei C8600 with kernel version 2.6.29, featured Swap, Iso file mount, Ext4, Network block device, Apanic, Magic_sysrq
 $【华为C8600用2.6.29版内核】528MHz CPU，开启Swap，Iso文件挂载，Ext4文件系统，网络块设备支持，Apanic，魔法sysrq
